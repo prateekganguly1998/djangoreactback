@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\pc\\.conda\\envs\\django_env\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": false,
+    "python.linting.pycodestyleEnabled": true
+}
